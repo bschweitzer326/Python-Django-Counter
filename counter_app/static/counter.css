@@ -1,0 +1,27 @@
+.container {
+    border: 5px solid black;
+    height: 800px;
+    width: 800px;
+    margin-top: 30px;
+    display: block;
+    align-items: center;
+}
+
+    h1 {
+        text-align: center;
+        background-color: aquamarine;
+        width: 760px;
+        height: 50px;
+        margin-top: 250px;
+    }
+
+    h2 {
+        text-align: center;
+        background-color: aquamarine;
+        width: 760px;
+    }
+
+    .two {
+        display: flex;
+        justify-content: space-evenly;
+    }
